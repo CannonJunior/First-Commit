@@ -1,3 +1,3 @@
 # First-Commit
-Edits to Branch1 of First-Commit.
-Second line of edits.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
